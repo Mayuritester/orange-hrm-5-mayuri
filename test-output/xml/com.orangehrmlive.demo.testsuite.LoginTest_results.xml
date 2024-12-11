@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression test"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.622">
+  <properties />
+  
+  
+            <testcase name="verifyErrorMessageWithInvalidCredentials" time="1.567" classname="com.orangehrmlive.demo.testsuite.LoginTest" />
+                <testcase name="verifyUserShouldLogOutSuccessFully" time="2.648" classname="com.orangehrmlive.demo.testsuite.LoginTest" />
+                <testcase name="verifyErrorMessageWithInvalidCredentials" time="0.433" classname="com.orangehrmlive.demo.testsuite.LoginTest" />
+                <testcase name="verifyErrorMessageWithInvalidCredentials" time="0.552" classname="com.orangehrmlive.demo.testsuite.LoginTest" />
+                <testcase name="verifyErrorMessageWithInvalidCredentials" time="0.422" classname="com.orangehrmlive.demo.testsuite.LoginTest" />
+      
+</testsuite>
